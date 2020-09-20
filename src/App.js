@@ -77,6 +77,9 @@ const SamuraiJSApp = (props) => {
             <AppContainer />
         </Provider>
     </HashRouter>
+<<<<<<< HEAD
+>>>>>>> parent of 2cedb1d... 99 - about everything
+=======
 >>>>>>> parent of 2cedb1d... 99 - about everything
 }
 
