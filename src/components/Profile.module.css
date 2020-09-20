@@ -1,5 +1,3 @@
-<<<<<<< HEAD:src/components/Profile/Profile.module.css
-=======
 .content {
   grid-area: c;
   background-color: cornflowerblue;
@@ -8,4 +6,3 @@
 .item {
   color: greenyellow;
 }
->>>>>>> parent of f21190a... 15: posts, post component; folder structure:src/components/Profile.module.css
